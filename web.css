@@ -1,0 +1,61 @@
+h1{
+    color: blue;
+    transition-timing-function: step;
+}
+div{
+    text-align: center;
+    margin-top: 80px;
+    padding: 150px 50px;
+    border: 2px solid blueviolet;
+    width: 50px 50px;
+    border-radius: 10px;
+    
+}    
+
+button:hover{
+    color: darkblue;
+    background-color: aqua;
+
+}
+body{
+    background-color: lightpink;
+    text-align: center;
+    padding-top: 1px;
+    padding-bottom: 15px;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-weight:20px ; 
+   
+}
+.loginform{
+    background-color:rgb(184, 95, 108);
+    font-size: large;
+}
+button{
+    border-radius: 15px;
+}
+.content{
+    background-color: lightblue;
+    height: 200px;
+    width: 180px;
+    padding:100px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 30px;
+}
+.angle{
+    background-color: lightgreen;
+    margin-left: 10px;
+    margin-bottom: 200px;
+    height: 100px
+    width: 100px;
+    padding:20px;
+    
+}
+#course:hover{
+    background-color: lightgreen;
+    border-bottom:  2px dotted black;
+}
+#course:active{
+    background-color:red ;
+}
